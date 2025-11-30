@@ -43,7 +43,7 @@ if (active) active.style.display = 'block';
 
 // 🎵 Song of the Day
 const songs = [
-  { cover: "music/covers/Weeknd.jpg", file: "music/Popular.mp3", title: "Popular", artist: "The Weeknd, Carti, Madonna" },
+  { cover: "music/covers/D4vd.jpg", file: "music/Feel it.mp3", title: "Feel it", artist: "D4vd" },
   { cover: "music/covers/Sailorr.jpg", file: "music/Cut Up.mp3", title: "Cut Up", artist: "SAILORR" },
   { cover: "music/covers/Yeat.jpg", file: "music/Bought the Earth.mp3", title: "Bought the Earth", artist: "Yeat" },
   { cover: "music/covers/Billie.jpg", file: "music/Getting Older.mp3", title: "Getting Older", artist: "Billie Eilish" },
